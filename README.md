@@ -13,6 +13,7 @@ This is one of my beginner projects to practice basic Python, file handling, and
 
 ## 📂 Project Structure
 Einkaufsliste/
+
 ├── main.py
 
 ├── shopping_list.txt
